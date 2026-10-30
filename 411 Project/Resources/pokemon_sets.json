@@ -1,0 +1,259 @@
+{
+  "64": [
+    { "name": "Jungle", "code": "base2", "series": "Classic", "year": 1999 },
+    { "name": "Shrouded Fable", "code": "sv6pt5", "series": "Scarlet & Violet", "year": 2024 }
+  ],
+  "62": [
+    { "name": "Fossil", "code": "base3", "series": "Classic", "year": 1999 }
+  ],
+  "82": [
+    { "name": "Team Rocket", "code": "base5", "series": "Classic", "year": 2000 }
+  ],
+  "132": [
+    { "name": "Gym Heroes", "code": "gym1", "series": "Classic", "year": 2000 },
+    { "name": "Gym Challenge", "code": "gym2", "series": "Classic", "year": 2000 },
+    { "name": "Secret Wonders", "code": "dp4", "series": "Diamond & Pearl", "year": 2007 }
+  ],
+  "111": [
+    { "name": "Neo Genesis", "code": "neo1", "series": "Neo", "year": 2000 },
+    { "name": "Rising Rivals", "code": "pl2", "series": "Platinum", "year": 2009 },
+    { "name": "Furious Fists", "code": "xy3", "series": "XY", "year": 2014 },
+    { "name": "Crimson Invasion", "code": "sm4", "series": "Sun & Moon", "year": 2017 }
+  ],
+  "75": [
+    { "name": "Neo Discovery", "code": "neo2", "series": "Neo", "year": 2001 }
+  ],
+  "66": [
+    { "name": "Neo Revelation", "code": "neo3", "series": "Neo", "year": 2001 }
+  ],
+  "105": [
+    { "name": "Neo Destiny", "code": "neo4", "series": "Neo", "year": 2002 },
+    { "name": "Roaring Skies", "code": "xy6", "series": "XY", "year": 2015 }
+  ],
+  "165": [
+    { "name": "Expedition Base Set", "code": "ecard1", "series": "E-Card", "year": 2002 },
+    { "name": "151", "code": "sv3pt5", "series": "Scarlet & Violet", "year": 2023 }
+  ],
+  "147": [
+    { "name": "Aquapolis", "code": "ecard2", "series": "E-Card", "year": 2003 },
+    { "name": "Supreme Victors", "code": "pl3", "series": "Platinum", "year": 2009 },
+    { "name": "Sun & Moon Base", "code": "sm1", "series": "Sun & Moon", "year": 2017 },
+    { "name": "Burning Shadows", "code": "sm3", "series": "Sun & Moon", "year": 2017 }
+  ],
+  "144": [
+    { "name": "Skyridge", "code": "ecard3", "series": "E-Card", "year": 2003 }
+  ],
+  "109": [
+    { "name": "EX Ruby & Sapphire", "code": "ex1", "series": "EX", "year": 2003 }
+  ],
+  "100": [
+    { "name": "EX Sandstorm", "code": "ex2", "series": "EX", "year": 2003 },
+    { "name": "EX Dragon", "code": "ex3", "series": "EX", "year": 2003 },
+    { "name": "EX FireRed & LeafGreen", "code": "ex6", "series": "EX", "year": 2004 },
+    { "name": "EX Emerald", "code": "ex9", "series": "EX", "year": 2005 },
+    { "name": "Stormfront", "code": "dp7", "series": "Diamond & Pearl", "year": 2008 },
+    { "name": "Call of Legends", "code": "col1", "series": "Call of Legends", "year": 2011 }
+  ],
+  "95": [
+    { "name": "EX Team Magma vs Team Aqua", "code": "ex4", "series": "EX", "year": 2004 },
+    { "name": "HS Unleashed", "code": "hgss2", "series": "HGSS", "year": 2010 }
+  ],
+  "101": [
+    { "name": "EX Hidden Legends", "code": "ex5", "series": "EX", "year": 2004 },
+    { "name": "Plasma Blast", "code": "bw10", "series": "Black & White", "year": 2013 },
+    { "name": "Legendary Treasures", "code": "bw11", "series": "Black & White", "year": 2013 }
+  ],
+  "107": [
+    { "name": "EX Team Rocket Returns", "code": "ex7", "series": "EX", "year": 2004 }
+  ],
+  "106": [
+    { "name": "EX Deoxys", "code": "ex8", "series": "EX", "year": 2005 },
+    { "name": "Great Encounters", "code": "dp4", "series": "Diamond & Pearl", "year": 2008 },
+    { "name": "Flashfire", "code": "xy2", "series": "XY", "year": 2014 },
+    { "name": "Ancient Origins", "code": "xy7", "series": "XY", "year": 2015 }
+  ],
+  "115": [
+    { "name": "EX Unseen Forces", "code": "ex10", "series": "EX", "year": 2005 }
+  ],
+  "113": [
+    { "name": "EX Delta Species", "code": "ex11", "series": "EX", "year": 2005 },
+    { "name": "Black & White Base", "code": "bw1", "series": "Black & White", "year": 2011 }
+  ],
+  "92": [
+    { "name": "EX Legend Maker", "code": "ex12", "series": "EX", "year": 2006 }
+  ],
+  "110": [
+    { "name": "EX Holon Phantoms", "code": "ex13", "series": "EX", "year": 2006 },
+    { "name": "EX Crystal Guardians", "code": "ex14", "series": "EX", "year": 2006 }
+  ],
+  "108": [
+    { "name": "EX Dragon Frontiers", "code": "ex15", "series": "EX", "year": 2006 },
+    { "name": "Dark Explorers", "code": "bw5", "series": "Black & White", "year": 2012 }
+  ],
+  "130": [
+    { "name": "Diamond & Pearl Base", "code": "dp1", "series": "Diamond & Pearl", "year": 2007 }
+  ],
+  "123": [
+    { "name": "Mysterious Treasures", "code": "dp2", "series": "Diamond & Pearl", "year": 2007 },
+    { "name": "HeartGold & SoulSilver", "code": "hgss1", "series": "HGSS", "year": 2010 }
+  ],
+  "146": [
+    { "name": "Majestic Dawn", "code": "dp5", "series": "Diamond & Pearl", "year": 2008 },
+    { "name": "XY Base", "code": "xy1", "series": "XY", "year": 2014 }
+  ],
+  "127": [
+    { "name": "Platinum Base", "code": "pl1", "series": "Platinum", "year": 2009 }
+  ],
+  "99": [
+    { "name": "Arceus", "code": "pl4", "series": "Platinum", "year": 2009 },
+    { "name": "Noble Victories", "code": "bw3", "series": "Black & White", "year": 2011 },
+    { "name": "Next Destinies", "code": "bw4", "series": "Black & White", "year": 2012 }
+  ],
+  "90": [
+    { "name": "HS Undaunted", "code": "hgss3", "series": "HGSS", "year": 2010 }
+  ],
+  "102": [
+    { "name": "Base Set", "code": "base1", "series": "Classic", "year": 1999 },
+    { "name": "HS Triumphant", "code": "hgss4", "series": "HGSS", "year": 2010 },
+    { "name": "Evolutions", "code": "xy12", "series": "XY", "year": 2016 }
+  ],
+  "98": [
+    { "name": "Emerging Powers", "code": "bw2", "series": "Black & White", "year": 2011 },
+    { "name": "Dragon Vault", "code": "drv", "series": "Black & White", "year": 2012 },
+    { "name": "Primal Clash", "code": "xy5", "series": "XY", "year": 2015 }
+  ],
+  "124": [
+    { "name": "Dragons Exalted", "code": "bw6", "series": "Black & White", "year": 2012 },
+    { "name": "Fates Collide", "code": "xy10", "series": "XY", "year": 2016 }
+  ],
+  "135": [
+    { "name": "Boundaries Crossed", "code": "bw7", "series": "Black & White", "year": 2012 },
+    { "name": "Plasma Storm", "code": "bw8", "series": "Black & White", "year": 2013 }
+  ],
+  "116": [
+    { "name": "Plasma Freeze", "code": "bw9", "series": "Black & White", "year": 2013 }
+  ],
+  "119": [
+    { "name": "Phantom Forces", "code": "xy4", "series": "XY", "year": 2014 }
+  ],
+  "162": [
+    { "name": "Breakthrough", "code": "xy8", "series": "XY", "year": 2015 }
+  ],
+  "122": [
+    { "name": "Breakpoint", "code": "xy9", "series": "XY", "year": 2016 }
+  ],
+  "114": [
+    { "name": "Steam Siege", "code": "xy11", "series": "XY", "year": 2016 }
+  ],
+  "145": [
+    { "name": "Guardians Rising", "code": "sm2", "series": "Sun & Moon", "year": 2017 }
+  ],
+  "73": [
+    { "name": "Shining Legends", "code": "sm3pt5", "series": "Sun & Moon", "year": 2017 },
+    { "name": "Champions Path", "code": "swsh3pt5", "series": "Sword & Shield", "year": 2020 }
+  ],
+  "156": [
+    { "name": "Ultra Prism", "code": "sm5", "series": "Sun & Moon", "year": 2018 }
+  ],
+  "131": [
+    { "name": "Forbidden Light", "code": "sm6", "series": "Sun & Moon", "year": 2018 }
+  ],
+  "168": [
+    { "name": "Celestial Storm", "code": "sm7", "series": "Sun & Moon", "year": 2018 }
+  ],
+  "70": [
+    { "name": "Dragon Majesty", "code": "sm7pt5", "series": "Sun & Moon", "year": 2018 }
+  ],
+  "214": [
+    { "name": "Lost Thunder", "code": "sm8", "series": "Sun & Moon", "year": 2018 },
+    { "name": "Unbroken Bonds", "code": "sm10", "series": "Sun & Moon", "year": 2019 }
+  ],
+  "181": [
+    { "name": "Team Up", "code": "sm9", "series": "Sun & Moon", "year": 2019 }
+  ],
+  "236": [
+    { "name": "Unified Minds", "code": "sm11", "series": "Sun & Moon", "year": 2019 },
+    { "name": "Cosmic Eclipse", "code": "sm12", "series": "Sun & Moon", "year": 2019 }
+  ],
+  "68": [
+    { "name": "Hidden Fates", "code": "sm115", "series": "Sun & Moon", "year": 2019 }
+  ],
+  "202": [
+    { "name": "Sword & Shield Base", "code": "swsh1", "series": "Sword & Shield", "year": 2020 }
+  ],
+  "192": [
+    { "name": "Rebel Clash", "code": "swsh2", "series": "Sword & Shield", "year": 2020 }
+  ],
+  "189": [
+    { "name": "Darkness Ablaze", "code": "swsh3", "series": "Sword & Shield", "year": 2020 },
+    { "name": "Astral Radiance", "code": "swsh10", "series": "Sword & Shield", "year": 2022 }
+  ],
+  "185": [
+    { "name": "Vivid Voltage", "code": "swsh4", "series": "Sword & Shield", "year": 2020 }
+  ],
+  "72": [
+    { "name": "Shining Fates", "code": "swsh45", "series": "Sword & Shield", "year": 2021 }
+  ],
+  "163": [
+    { "name": "Battle Styles", "code": "swsh5", "series": "Sword & Shield", "year": 2021 }
+  ],
+  "198": [
+    { "name": "Chilling Reign", "code": "swsh6", "series": "Sword & Shield", "year": 2021 },
+    { "name": "Scarlet & Violet Base", "code": "sv1", "series": "Scarlet & Violet", "year": 2023 }
+  ],
+  "203": [
+    { "name": "Evolving Skies", "code": "swsh7", "series": "Sword & Shield", "year": 2021 }
+  ],
+  "25": [
+    { "name": "Celebrations", "code": "cel25", "series": "Sword & Shield", "year": 2021 }
+  ],
+  "264": [
+    { "name": "Fusion Strike", "code": "swsh8", "series": "Sword & Shield", "year": 2021 }
+  ],
+  "172": [
+    { "name": "Brilliant Stars", "code": "swsh9", "series": "Sword & Shield", "year": 2022 }
+  ],
+  "78": [
+    { "name": "Pokemon GO", "code": "pgo", "series": "Sword & Shield", "year": 2022 }
+  ],
+  "196": [
+    { "name": "Lost Origin", "code": "swsh11", "series": "Sword & Shield", "year": 2022 }
+  ],
+  "195": [
+    { "name": "Silver Tempest", "code": "swsh12", "series": "Sword & Shield", "year": 2022 }
+  ],
+  "159": [
+    { "name": "Crown Zenith", "code": "swsh12pt5", "series": "Sword & Shield", "year": 2023 }
+  ],
+  "193": [
+    { "name": "Paldea Evolved", "code": "sv2", "series": "Scarlet & Violet", "year": 2023 }
+  ],
+  "197": [
+    { "name": "Obsidian Flames", "code": "sv3", "series": "Scarlet & Violet", "year": 2023 }
+  ],
+  "182": [
+    { "name": "Paradox Rift", "code": "sv4", "series": "Scarlet & Violet", "year": 2023 },
+    { "name": "Temporal Forces", "code": "sv5", "series": "Scarlet & Violet", "year": 2024 }
+  ],
+  "91": [
+    { "name": "Paldean Fates", "code": "sv4pt5", "series": "Scarlet & Violet", "year": 2024 }
+  ],
+  "167": [
+    { "name": "Twilight Masquerade", "code": "sv6", "series": "Scarlet & Violet", "year": 2024 }
+  ],
+  "142": [
+    { "name": "Stellar Crown", "code": "sv7", "series": "Scarlet & Violet", "year": 2024 }
+  ],
+  "191": [
+    { "name": "Surging Sparks", "code": "sv8", "series": "Scarlet & Violet", "year": 2024 }
+  ],
+  "86": [
+    { "name": "Prismatic Evolutions", "code": "sv8pt5", "series": "Scarlet & Violet", "year": 2025 }
+  ],
+  "TG30": [
+    { "name": "Trainer Gallery", "code": "tg", "series": "Sword & Shield", "year": 2022 }
+  ],
+  "GG70": [
+    { "name": "Galarian Gallery", "code": "gg", "series": "Sword & Shield", "year": 2023 }
+  ]
+}
